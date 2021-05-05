@@ -1,0 +1,12 @@
+  400  ls
+  401  more main
+  402  ls
+  403  more main.o
+  404  run main
+  405  gcc main
+  406  ls
+  407  history
+  408  history|12
+  409  history |12
+  410  history 12
+  411  history 12 > histo.txt
